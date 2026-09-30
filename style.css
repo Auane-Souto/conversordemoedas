@@ -106,7 +106,7 @@
 
  }
 
- .valor-moeda {
+ .valor-moeda, .valor-moeda-convertido {
     color: #555555;
     font-weight: 700;
     font-size: 20px;
